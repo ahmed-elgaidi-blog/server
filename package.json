@@ -27,7 +27,7 @@
     "@nestjs/config": "^3.1.1",
     "@nestjs/core": "^10.0.0",
     "@nestjs/mongoose": "^10.0.2",
-    "@nestjs/platform-express": "^10.0.0",
+    "@nestjs/platform-express": "^10.3.7",
     "@nestjs/throttler": "^5.0.1",
     "@types/helmet": "^4.0.0",
     "@types/hpp": "^0.2.5",
